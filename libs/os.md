@@ -1,0 +1,5 @@
+---
+permalink: /os/
+---
+
+# Python os

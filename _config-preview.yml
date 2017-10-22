@@ -1,0 +1,8 @@
+github: [metadata]
+description: ''
+baseurl: '/python' # 与 github.io 一致
+
+exclude:
+  - '*.sublime-*'
+  - Gemfile*
+  - .vscode
